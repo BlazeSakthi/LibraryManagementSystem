@@ -16,7 +16,4 @@ The Library Management System (LMS) is a software solution implemented in C to a
 - **Hash Maps**: Enable quick lookups for books by title or author.
 - **Binary Search Trees**: Optimize catalog searches.
 
-## Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/LibraryManagementSystem.git
+
